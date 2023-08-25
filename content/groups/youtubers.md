@@ -22,6 +22,7 @@ members:
     - brent-roose
     - code-with-dary
     - povilas-korop
+    -william-juma
     - shruti-balasa
     - chris-fidao
     - jordan-dalton
